@@ -30,7 +30,7 @@ This repository provides a step-by-step guide to setting up YOLOv10 and performi
     !pip install -q .
     ```
 
-## Download Pre-trained Weights
+### Download Pre-trained Weights
 
 The script downloads several pre-trained weights required for object detection.
 
