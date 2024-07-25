@@ -1,6 +1,8 @@
 # -Object-Detection-in-Images-and-Videos-with-YOLOv10-
 Object Detection in Images and Videos with YOLOv10 in Google Colab
 
+![](https://github.com/Raj-med/-Object-Detection-in-Images-and-Videos-with-YOLOv10-/blob/main/ezgif-5-42d4a6327e.gif)
+
 # YOLOv10 Setup and Object Detection
 
 This repository provides a step-by-step guide to setting up YOLOv10 and performing object detection on a video file.
